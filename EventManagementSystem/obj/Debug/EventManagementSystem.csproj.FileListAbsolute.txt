@@ -1,0 +1,73 @@
+E:\visual programming project\EventManagementSystem\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+E:\visual programming project\EventManagementSystem\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+E:\visual programming project\EventManagementSystem\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.csprojResolveAssemblyReference.cache
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.Properties.Resources.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.Cache
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.AdminLogin.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.Welcome.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.UserLogin.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.AdminPanel.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.UserPanel.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.ShowUsers.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.SearchUser.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.SearchUser1.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.RegisterUser.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.ShowRooms.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.findRoom.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.EditRoomsLeft.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.SetPrices.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.updateUser.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.ViewPastRooms.resources
+E:\visual programming project\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.ViewBookedRoomsUser.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.csprojResolveAssemblyReference.cache
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.AdminLogin.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.AdminPanel.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.EditRoomsLeft.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.findRoom.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.RegisterUser.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.SearchUser.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.SearchUser1.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.SetPrices.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.ShowRooms.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.ShowUsers.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.updateUser.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.UserLogin.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.UserPanel.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.ViewBookedRoomsUser.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.ViewPastRooms.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.Welcome.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.Properties.Resources.resources
+E:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.Cache
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.csprojAssemblyReference.cache
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.AdminLogin.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.AdminPanel.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.EditRoomsLeft.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.findRoom.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.RegisterUser.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.SearchUser.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.SearchUser1.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.SetPrices.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.ShowRooms.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.ShowUsers.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.updateUser.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.UserLogin.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.UserPanel.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.ViewBookedRoomsUser.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.ViewPastRooms.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.Welcome.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.Properties.Resources.resources
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.cache
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.CoreCompileInputs.cache
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+F:\visual programming project\EventManagementSystem - Copy\EventManagementSystem\obj\Debug\EventManagementSystem.pdb

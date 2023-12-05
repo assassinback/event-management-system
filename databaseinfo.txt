@@ -1,0 +1,8 @@
+clearance table: id,clearanceid,roomid,roomtype,nbpeople,roomsize,eventtype,nbrooms,bookingdate,totalprice
+userinfo table:username,pass,email,phone,roomsbooked
+roominfo table:id,roomid,roomtype,nbpeople,roomsize,eventtype,nbrooms,nbdays,bookingdate,totalprice
+roomsleft table:id,roomsize,onemore i dont remember not sure if there were 3 or 2 here
+eventtypeinfo table:id,price,eventtype
+nbroomsinfo table:id,price,nbrooms
+roomtypeinfo table:id,price,roomtype
+admininfo table: id, username, password
